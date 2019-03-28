@@ -11,7 +11,7 @@ facts();
 		int a[]= {1,4,6,73,82};
 		for (int i = 0; i < a.length; i++) {
 			System.out.println("The numbers are");
-			System.out.println(a[i]);
+			System.out.println("i am the one"+a[i]);
 		}
 		
 		
